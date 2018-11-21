@@ -4,3 +4,4 @@ submerge.cabal
 shell.drv
 feeds/
 tracker.json
+config.yaml
