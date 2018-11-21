@@ -1,0 +1,10 @@
+tracker-file: tracker.json
+output-dir: feeds/
+discard-entries-older-than: 30 #days
+
+topics: 
+  - name: technology
+    feeds:
+      - https://www.technologyreview.com/c/computing/rss/
+      - https://www.wired.com/feed/rss
+ 
